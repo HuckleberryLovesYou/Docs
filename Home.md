@@ -1,4 +1,4 @@
-### Willkommen!
+## Willkommen!
 
 Ich habe eine umfangreiche, frei zugängliche Dokumentationsplattform für den Berufsschulstoff erstellt. Unter den Adressen
 
@@ -9,26 +9,30 @@ findest du sämtliche Lektionen, Lernhilfen, Übungsaufgaben und Verweise auf we
 
 ---
 
-### Mitmachen & Mitgestalten
+## Mitmachen & Mitgestalten
 
-Diese Seite lebt von gemeinsamer Arbeit! Wenn du Ideen, Ergänzungen oder Korrekturen beisteuern möchtest, lade ich dich herzlich ein, Teil des Projekts zu werden. So gehst du vor:
+Dieses Projekt lebt vom Mitwirken:
+Für eine genauere Anleitung zum Mitwirken ist [[CONTRIBUTING|hier]] zu finden.
 
-1. **Kontaktaufnahme**  
-    Schreib mir einfach eine kurze Nachricht (E-Mail an [mail@timmatheis.com](mailto:mail@timmatheis.com), direkt über den Teams Chat oder WhatsApp, damit ich dich als Autor hinzufügen kann.
-    
-2. **Zugangsdaten erhalten**  
-    Nach Rückmeldung bekommst du Lese- und Schreibrechte in meinem Obsidian-Publishing-Workspace.
-    
-3. **Beiträge leisten**  
-    Füge neue Themen hinzu, verbessere bestehende Artikel oder erstelle Übungsaufgaben – alles wird versioniert und übersichtlich verwaltet.
+1. **Repo klonen & Forken**  
+    Forke das Repo unter [https://github.com/HuckleberryLovesYou/Docs](https://github.com/HuckleberryLovesYou/Docs) und klone es lokal.
 
+2. **Änderungen vornehmen**  
+    – Neue Themen hinzufügen  
+    – Bestehende Artikel korrigieren oder erweitern  
+    – Übungsaufgaben ergänzen
 
-Gemeinsam können wir eine lebendige, stets aktuelle Lernplattform schaffen, die allen zugutekommt.
-Ich freue mich auf deine Ideen und Mithilfe!
+3. **Pull Request erstellen**  
+    Sobald deine Änderungen bereit sind, stelle einen Pull Request gegen den `main`-Branch.
+
+4. **Review & Merge**  
+    Ich schaue mir deinen PR an, gebe Feedback und merge diese wenn alle Anforderungen erfüllt sind.
+
+Mit deinem Beitrag hilfst du, die Dokumentation stets aktuell und hochwertig zu halten. Danke für dein Engagement – ich freue mich auf deine Pull Requests!
 
 
 ---
 
-### Verweise
+#### Verweise
 
 [Document icons created by smalllikeart - Flaticon](https://www.flaticon.com/free-icons/document)
