@@ -1,0 +1,2 @@
+#TODO
+Definition: Die [Dateiberechtigungen](https://de.wikipedia.org/wiki/Unix-Dateirechte) unter GNU/Linux sind Berechtigungen, welche eigens für alle Objekte (u.a. Dateien und Verzeichnisse) im [[Dateisystem]] vergeben werden können. Dabei kann für jede Datei oder jedes Verzeichnisse eigene Berechtigungen je für den Besitzer (Owner) der Datei, die Gruppe (Group), zu welcher der Besitzer gehört und für alle anderen (Others). Die zu vergebenden Rechte beschränken sich hierbei auf Leserechte (Read), Schreibrechte (Write) und Ausführrechte (Execute). Diese 
