@@ -2,7 +2,7 @@
 [MAN Page](https://man7.org/linux/man-pages/man1/chmod.1.html)
 **change file mode bits**
 
-Definition: Der `chmod` Befehl ermöglich die Bearbeitung von Berechtigungen einer Datei oder eines Verzeichnisses, welche beispielsweise durch den [[ls#Häufige Optionen|ls -l]] oder `stat` Befehl sichtbar sind. Hierfür kann die Buchstabennotation oder die Oktalnotation verwendet werden.
+Definition: Der `chmod` Befehl ermöglich die Bearbeitung der [[Dateiberechtigungen]] einer Datei oder eines Verzeichnisses, welche beispielsweise durch den [[ls#Häufige Optionen|ls -l]] oder `stat` Befehl sichtbar sind. Hierfür kann die Buchstabennotation oder die Oktalnotation verwendet werden.
 
 Steht für: change mode
 
