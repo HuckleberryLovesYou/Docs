@@ -3,4 +3,5 @@ Definition: [Link Aggregation](https://en.wikipedia.org/wiki/Link_aggregation) e
 - Erhöhung der Datenrate der Verbindung
 - Herstellung einer Redundanz für kaputte Medien/Ports
 - Preislicher Vorteil durch die Notwendigkeit von günstigeren Medien und benötigter Hardware für diese Medien
-### Beispiel
+### Beispiele
+Beispiele für Protokolle, welche verwendet werden können, um 
