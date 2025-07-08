@@ -1,4 +1,4 @@
 ### Kommend
-- [[IT-S 07.07.2025]]
+- [[PuG 09.07.2025]]
 ### Erledigt
-- Hier ist noch nichts vorhanden
+- [[IT-S 07.07.2025]]
