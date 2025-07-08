@@ -17,10 +17,11 @@ Für eine genauere Anleitung zum Mitwirken ist [[CONTRIBUTING|hier]] zu finden.
 1. **Repo klonen & Forken**  
     Forke das Repo unter [https://github.com/HuckleberryLovesYou/Docs](https://github.com/HuckleberryLovesYou/Docs) und klone es lokal.
 
-2. **Änderungen vornehmen**  
-    – Neue Themen hinzufügen  
-    – Bestehende Artikel korrigieren oder erweitern  
-    – Übungsaufgaben ergänzen
+2. **Änderungen vornehmen**
+	- Neue Themen hinzufügen 
+	- Bestehende Artikel korrigieren oder erweitern
+	- Übungsaufgaben ergänzen
+	- Bitte verwende kein LLM zur Erstellung von Inhalten mit Lerninhalt
 
 3. **Pull Request erstellen**  
     Sobald deine Änderungen bereit sind, stelle einen Pull Request gegen den `main`-Branch.
