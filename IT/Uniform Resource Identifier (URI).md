@@ -1,0 +1,2 @@
+#TODO
+Definition: Ein [Uniform Resource Identifier](https://de.wikipedia.org/wiki/Uniform_Resource_Identifier) ermöglicht die Identifizierung einer abstrakten oder physischen Ressource dient. Darunter zählen beispielsweise Webseiten und E-Mail-Empfänger. Hierbei handelt es sich um einen Überbegriff, welcher unterschiedliche Arten unter sich vereint. Darunter befinden sich auch [[Uniform Resource Locator (URL)]] und [URN](https://de.wikipedia.org/wiki/Uniform_Resource_Name).

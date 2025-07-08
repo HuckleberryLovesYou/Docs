@@ -2,6 +2,7 @@
 Date: 2025-07-07
 subject: IT-S
 content: DNS,HTTP,URL/URI
+type: Stegreifaufgabe
 ---
 ## Table of Contents
 
@@ -24,7 +25,7 @@ content: DNS,HTTP,URL/URI
 - DynDNS
 #### HTTP
 - Aufbau einer Website
-- HTTP-Kommandos
+- HTTP-Methoden
 - HTTPS
 #### URL/URI
 - Scheme
