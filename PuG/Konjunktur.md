@@ -1,12 +1,9 @@
 Definition: Die [Konjunktur](https://de.wikipedia.org/wiki/Konjunktur) beschreibt die Entwicklung des Bruttoinlandsproduktes. Diese Entwicklung verläuft wellenförmig.
 
 ## Konjunkturphasen
-Die Konjunktur wird in 4 Phasen unterschieden, welche auf den aktuellen Stand des wellenförmig Verlaufs hinweisen.
-1. Expansion
-2. Boom
-3. Rezession
-4. Depression
+Die Konjunktur wird in 4 Phasen (Expansion, Boom, Rezession, Depression) unterschieden, welche auf den aktuellen Stand des wellenförmig Verlaufs hinweisen.
 
+![[Konjunkturphasen.png]]
 ## Konjunkturindikatoren
 Mithilfe von nachfolgenden Indikatoren können Wirtschaftsforschungsinstitute den aktuellen Konjunkturstand ermitteln. Dieser Vorgang nennt sich Konjunkturdiagnose. Die Vorhersage der Entwicklung dient als Grundlage für konjunkturpolitische Steuerungsmaßnahmen. Dieser Vorgang nennt sich Konjunkturprognose.
 
