@@ -1,4 +1,4 @@
-Definition: Die [Konjunktur](https://de.wikipedia.org/wiki/Konjunktur) beschreibt die Entwicklung des Bruttoinlandsproduktes. Diese Entwicklung verläuft wellenförmig.
+Definition: Die [Konjunktur](https://de.wikipedia.org/wiki/Konjunktur) beschreibt die Entwicklung des Bruttoinlandsproduktes. Diese Entwicklung verläuft wellenförmig. Ein Konjunkturzyklus dauert etwa 4 - 6 Jahre.
 
 ## Konjunkturphasen
 Die Konjunktur wird in 4 Phasen (Expansion, Boom, Rezession, Depression) unterschieden, welche auf den aktuellen Stand des wellenförmig Verlaufs hinweisen.
