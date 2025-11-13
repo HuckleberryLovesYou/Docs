@@ -1,20 +1,22 @@
 Die Gliederung muss einen "roten Faden" verfolgen und folgendem Aufbau folgen:
-- Einleitung
+1. Einleitung
 	- Firmenvorstellung (falls notwendig)
 	- Abteilungsvorstellung (falls notwendig)
 	- Projektumfeld
-1. Projektbeschreibung
+2. Projektbeschreibung
 	- Ausgangssituation
 	- Projektziel
-2. Projektplanung
-	- ggf. Hardwareauswahl, Netzwerkplanung, Kostenkalkulation, Zeitplan
-3. Projektdurchführung
+3. Projektplanung
+	- [[Projektmanagement#Ressourcenplan|Kostenplan]]
+	- Zeitplan
+	- [[Projektmanagement#Projektstrukturplan (PSP)|Projektstrukturplan]]
+	- ggf. Hardwareauswahl, Netzwerkplanung
+4. Projektdurchführung
 	- ggf. Montage, Konfiguration, Testen
-4. Projektabschluss
-	- Projektabnahme
-	- Übergabe und ggf. Einweisung
-5. Projektergebnis und Bewertung
-	- Zukunftssicherheit, Ausblick, Alternativen
-6. Quellenangaben
-7. Anhang
+5. Projektabschluss
+	- Übergabe und Abnahme
+	- Projektergebnis und Fazit
+6. Glossar 
+7. Quellenangaben
+8. Anhang
 	- ggf. Datenblätter, Messergebnisse
