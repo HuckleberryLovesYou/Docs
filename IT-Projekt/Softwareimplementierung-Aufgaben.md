@@ -1,5 +1,3 @@
-- Cloud TK-Anlage 
-    - Lösung und Lizenz von Benze erfragen 
  - Benutzer- und Rechteverwaltung 
     - AD DS 
 	    - Tiering-Konzept
@@ -22,7 +20,7 @@
 	    - Erstellung von Administratoraccounts und Benutzeraccounts
 	    - Erstellung von Templates für Switche, Server und Router
 - Mailserver 
-    - MS Exchange/Mailcow (Docker)
+    - MS Exchange Online
     - Installation des Mailservers
 - Webserver
 	- Nginx
