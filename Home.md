@@ -1,11 +1,6 @@
 ## Willkommen!
 
-Ich habe eine umfangreiche, frei zugängliche Dokumentationsplattform für den Berufsschulstoff erstellt. Unter den Adressen
-
-- [https://publish.obsidian.md/bs-timmatheis-com](https://publish.obsidian.md/bs-timmatheis-com)
-- [https://docs.timmatheis.com/](https://docs.timmatheis.com/)
-
-findest du sämtliche Lektionen, Lernhilfen, Übungsaufgaben und Verweise auf weiterführende Ressourcen – gepflegt und strukturiert in Obsidian Publish. Die '[publish.obsidian.md](https://publish.obsidian.md/bs-timmatheis-com)'-Domain leitet automatisch auf meine eigene Domain [docs.timmatheis.com](https://docs.timmatheis.com/) weiter, sodass du stets die aktuellste Version zu sehen bekommst.
+Ich habe eine umfangreiche, frei zugängliche Dokumentationsplattform für den Berufsschulstoff erstellt. Unter der Adresse [https://docs.timmatheis.com/](https://docs.timmatheis.com/) findest du sämtliche Lektionen, Lernhilfen, Übungsaufgaben und Verweise auf weiterführende Ressourcen – gepflegt und strukturiert in Obsidian Publish.
 
 ---
 
