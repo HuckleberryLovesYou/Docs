@@ -1,9 +1,9 @@
 Die Gliederung muss einen "roten Faden" verfolgen und folgendem Aufbau folgen:
 1. Einleitung
-	- Firmenvorstellung (falls notwendig)
-	- Abteilungsvorstellung (falls notwendig)
-	- Projektumfeld
+	- Danksagungen
+	- persönliche Motivation
 2. Projektbeschreibung
+	- Projektumfeld
 	- Ausgangssituation
 	- Projektziel
 3. Projektplanung
