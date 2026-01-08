@@ -26,7 +26,7 @@ Die Daten und Systeme dürfen nur für berechtigte Personen, Ressourcen und Proz
 
 ### Integrität/Integrity:
 #### Definition
-Die Daten dürfen nicht manipuliert worden sein. Unbefugte oder unbeabsichtigte Änderungen von Daten erkennen kann.
+Die Daten dürfen nicht manipuliert worden sein. Unbefugte oder unbeabsichtigte Änderungen von Daten müssen erkannt werden.
 
 #### Methoden
 - **[Hashing](https://de.wikipedia.org/wiki/Kryptografische_Hashfunktion):** Erstellung eines Fingerabdrucks von Daten, um Veränderungen festzustellen
