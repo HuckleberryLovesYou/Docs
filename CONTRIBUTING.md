@@ -149,7 +149,7 @@ Ask questions in an issue on GitHub and Ping @timmatheis in the issue or PR thre
 We’re happy to help you get started!
 
 Code of Conduct & License
-All contributions fall under the project’s MIT License.
+All contributions fall under the project’s GPL-3.0 License.
 
 ---
 
