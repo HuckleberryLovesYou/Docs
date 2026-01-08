@@ -6,7 +6,7 @@ Definition: [Cloud Computing](https://de.wikipedia.org/wiki/Cloud_Computing) bes
 - keine Anschaffungskosten für Hardware
 - einfachere Einrichtung
 - hohe Verfügbarkeit
-- geringere Inbetriebnahmezeiten, aufgrund von bestehender Hardware 
+- geringerer Zeitaufwand für die Inbetriebnahme, aufgrund von bestehender Hardware
 **Nachteile**
 - hohe laufende Kosten
 - Unklarheit über Datenspeicherung
