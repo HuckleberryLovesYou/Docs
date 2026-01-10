@@ -3,13 +3,13 @@ Definition: [Energie](https://de.wikipedia.org/wiki/Energie) und [Leistung](http
 ## Table of Contents
 
 - [[#Grundgrößen|Grundgrößen]]
-    - [[Energie und Leistung#[ 1]Spannung|Spannung]]
-    - [[Energie und Leistung#[ 1]Stromstärke|Stromstärke]]
-    - [[Energie und Leistung#[ 1]Leistung|Leistung]]
-    - [[Energie und Leistung#[ 1]Wiederstand|Wiederstand]]
-    - [[Energie und Leistung#[ 1]Ladung|Ladung]]
-    - [[Energie und Leistung#[ 1]Wirkungsgrad|Wirkungsgrad]]
-    - [[Energie und Leistung#[ 1]Arbeit/Energie|Arbeit/Energie]]
+    - [[Energie und Leistung#Spannung|Spannung]]
+    - [[Energie und Leistung#Stromstärke|Stromstärke]]
+    - [[Energie und Leistung#Leistung|Leistung]]
+    - [[Energie und Leistung#Widerstand|Widerstand]]
+    - [[Energie und Leistung#Ladung|Ladung]]
+    - [[Energie und Leistung#Wirkungsgrad|Wirkungsgrad]]
+    - [[Energie und Leistung#Arbeit/Energie|Arbeit/Energie]]
 - [[#Beispielsaufgaben|Beispielsaufgaben]]
     - [[#Beispielsaufgaben#Aufgabe 1|Aufgabe 1]]
     - [[#Beispielsaufgaben#Aufgabe 2|Aufgabe 2]]
@@ -19,52 +19,52 @@ Definition: [Energie](https://de.wikipedia.org/wiki/Energie) und [Leistung](http
 
 ### Grundgrößen
 
-#### [^1]Spannung
+#### Spannung
 
-Definition: Potenzialunterschied zwischen zwei Punkten
+Definition: Potentialunterschied zwischen zwei Punkten
 - Einheit: V (Volt)
 - Netzspannung in Deutschland: 230V (220-240V) 
 - Formelzeichen: U
 - Berechnungsformel: U = R * I
 
-#### [^1]Stromstärke
+#### Stromstärke
 
 Definition: Elektronen, die durch einen Leiter fließen
 - Einheit: A (Ampere)
 - Formelzeichen: I
 - Berechnungsformel: I = U / R
 
-#### [^1]Leistung
+#### Leistung
 
 Definition: Die in einer Zeitspanne umgesetzte Energie
 - Einheit: W (Watt)
 - Formelzeichen: P
 - Berechnungsformel: P = U * I
 
-#### [^1]Wiederstand
+#### Widerstand
 
 Definition: Die Hemmung des Stromes in einem Leiter
 - Einheit: Ω (Ohm)
 - Formelzeichen: R (Resistance)
 - Berechnungsformel: R = U * I
 
-#### [^1]Ladung
+#### Ladung
 
 - Einheit: As (Ampere Sekunde)
 - Formelzeichen: Q
 - Berechnungsformel: Q = I * t
 
-#### [^1]**Wirkungsgrad**
+#### Wirkungsgrad
 
 Definition: Das Verhältnis von abgeführter Leistung zu zugeführter Leistung
 - Einheit: % (Prozent)
 - Formelzeichen: η
 - Berechnungsformel: η (eta) = P$ab$ / P$zu$
 
-#### [^1]Arbeit/Energie
+#### Arbeit/Energie
 
 Definition:
-- Einheit: Ws
+- Einheit: J (1 Joule = 1 Watt/Sekunde)
 - Formelzeichen: W (Work)
 - Berechnungsformel: W = P * t
 
@@ -90,7 +90,7 @@ a) Berechnen Sie die Leistungsaufnahme während eines Druckvorgangs.
 b) Berechnen Sie den Jahresenergiebedarf im Sleep-Modus (eines Druckers).
 
 *Geg.: U = 230V, I = 0,0025*
-*Ges.: W/Jahr*
+*Ges.: Wh/Jahr*
 *benötigte Formel(n): U * I = P, P * t = W*
 
 *230V * 0,0025A = 0.575W*
@@ -125,7 +125,7 @@ c) für alle (28) Monitore bei kombinierter Nutzung (a+b) (Gesamtenergiebedarf)
 *benötigte Formel(n): Anzahl Monitore * WStandby * WBetrieb = Whgesamt/Jahr*
 
 *28 * (916,32Wh + 37.848Wh) = 1,085,400Wh/Jahr = 1.085,4kWh/Jahr*
-#### Aufgabe 6
+#### Aufgabe 3
 
 Die zehn Netzwerkserver sollen mittels USV abgesichert werden. Die Leistung eines Servernetzteils beträgt dabei im Volllastbetrieb 750 W. Die USV beinhaltet 8 Akkus mit einer Ladungsmenge pro Akku von 200 Ah bei einer Spannung von 12 V.
 - Bei Netzausfall sind die acht Akkus der USV zu 100% geladen.
