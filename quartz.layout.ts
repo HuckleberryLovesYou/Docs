@@ -41,6 +41,47 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       folderClickBehavior: "collapse",
+      sortFn: (a: any, b: any) => {
+        const nameOrderMap: Record<string, number> = {
+          "Home": 0,
+          "Leistungsnachweise": 100,
+          "LICENSE": 200,
+          "CONTRIBUTING": 300,
+        }
+ 
+        let orderA = 500
+        let orderB = 500
+ 
+        if (a.file && a.file.frontmatter && a.file.frontmatter.order) {
+          orderA = a.file.frontmatter.order
+        } else if (a.displayName in nameOrderMap) {
+          orderA = nameOrderMap[a.displayName]
+        }
+ 
+        if (b.file && b.file.frontmatter && b.file.frontmatter.order) {
+          orderB = b.file.frontmatter.order
+        } else if (b.displayName in nameOrderMap) {
+          orderB = nameOrderMap[b.displayName]
+        }
+ 
+        if (orderA !== orderB) {
+          return orderA - orderB
+        }
+ 
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          // Sort alphabetically
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+ 
+        if (!a.isFolder && b.isFolder) {
+          return 1
+        } else {
+          return -1
+        }
+      },
     }),
   ],
   right: [
