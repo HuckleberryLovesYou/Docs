@@ -1,0 +1,9 @@
+In relationalen Datenbanksystemen gibt es verschiedene Schlüsselarten:
+### Primärschlüssel (primary key, PK))
+Jeder Datensatz in einer Tabelle muss eindeutig über einen Primärschlüssel identifizierbar sein. Dies kann durch ein Attribut oder eine Kombination von Attributen gewährleistet werden. Für die Tabelle (bzw. den Entitätstyp) Lehrer könnte man z. B. die Attributkombination aus Name, Vorname und Geburtsdatum wählen. Dieser zusammengesetzte Schlüssel würde Lehrkräfte meist eindeutig identifizieren. Wenn es mehrere mögliche Schlüsselkandidaten gibt, so wird einer davon als Primärschlüssel festgelegt. Der Primärschlüssel darf bei der Dateneingabe nicht leer (NULL) sein und darf sich während seiner Existenz nicht ändern.
+### Künstlicher Schlüssel (artificial key)
+Oft empfiehlt es sich, einen künstlichen Schlüssel, wie beispielsweise eine Identifikationsnummer (ID) zu definieren, um einen eindeutigen Kennzeichner für einen Datensatz zu garantieren. Aus dem Alltag kennen wir dies in Form von Kunden- und Bestellnummern oder UUIDs (Universally Unique Identifier).
+### Fremdschlüssel (foreign key, FK)
+Durch Fremdschlüsseln können Beziehungen zwischen zwei Relationen definiert werden. Der Fremdschlüssel muss in der verknüpften Tabelle ein Primärschlüssel sein. Dieser kann aus einem Attribut oder einer Attributkombination bestehen.
+### Sekundärschlüssel (secondary key)
+Sekundärschlüssel identifizieren einen Datensatz nicht eindeutig, sondern dienen dem schnelleren Suchen bzw. Sortieren. (Beispiel: Attribut klasse als Sekundärschlüssel in einer Tabelle schueler). Diese werden erst in der Phase des physischen Entwurfs relevant.

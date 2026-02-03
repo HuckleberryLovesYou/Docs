@@ -1,0 +1,8 @@
+node_modules
+public
+.cache
+content/private
+content/templates
+content/drafts
+content/.obsidian
+.DS_Store

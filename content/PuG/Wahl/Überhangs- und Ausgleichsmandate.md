@@ -1,0 +1,5 @@
+Die Überhangs- und Ausgleichsmandate wurden bereits zur 21. Wahlperiode am 17.03.2023 durch die [Wahlrechtsreform](https://www.bundestag.de/services/glossar/glossar/W/wahlrechtsreform2023-974280) abgeschafft. 
+### Überhangmandate
+[Überhangmandate](https://www.bundestag.de/services/glossar/glossar/U/ueberhangmandate-245552) wurden zugeteilt, wenn eine Partei mehr Direktmandate durch [[Wahlbesonderheiten#Erst- und Zweitstimme#Erststimme|Erststimmen]] in einem Land errang, als ihr gemäß dem [[Wahlbesonderheiten#Erst- und Zweitstimme#Zweitstimme|Zweitstimmenergebnis]] in diesem Land zugestanden hätten.
+### Ausgleichsmandat
+Dieses [Ausgleichsmandat](https://www.bundestag.de/services/glossar/glossar/A/ausgleichsmandat-259632) wurde zum Ausgleich der [[Überhangs- und Ausgleichsmandate#Überhangmandate|Überhangmandate]] zugeteilt. Diese gleichen durch die Vergabe zusätzlicher Sitze an die anderen Parteien in dem Maße der Überhangsmandate aus.

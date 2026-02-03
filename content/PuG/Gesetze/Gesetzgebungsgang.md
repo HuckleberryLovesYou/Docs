@@ -1,0 +1,10 @@
+### Zustimmungsgesetz
+Das [Zustimmungsgesetz](https://de.wikipedia.org/wiki/Zustimmungsbed%C3%BCrftiges_Gesetz) - auch zustimmungsbedürftiges Gesetz genannt - beschreibt ein Gesetz, welchem der Bundesrat nach dem Grundgesetz zustimmen **muss**. Dabei handelt es sich zum Beispiel um die Finanzverteilung oder die Änderung von Steuergesetzen. Sollte der Bundesrat nicht zustimmen, so wird der Entwurf verworfen.
+### Einspruchsgesetz
+Das [Einspruchsgesetz](https://de.wikipedia.org/wiki/Einspruchsgesetz) - auch einfaches Gesetz genannt - beschreibt ein Gesetz gegen welches der Bundesrat Einspruch erheben **kann**. Sollte der Bundesrat gegen den Entwurf Einspruch erheben, kann der Bundestag den Einspruch mit einer 2/3 Mehrheit überstimmen. Sollte diese Mehrheit nicht erreicht werden, so wird der Entwurf verworfen.
+
+### Gesetzesvorschlag
+Ein Gesetz kann von mehreren Organen initial vorgeschlagen werden. Das Recht ein Gesetz vorzuschlagen nennt sich Initiativrecht. Eines dieser Organe ist die Bundesregierung. Diese muss jeglichen Entwurf vor der Vorstellung im Bundestag dem Bundesrat vorgezeigt werden und von diesem Stellung bezogen werden. Weiter kann der Bundesrat ebenfalls der Bundesregierung einen Entwurf vorlegen. Der Bundestag (Fraktion) hat ebenfalls die Möglichkeit einer Entwurfsvorlage, sofern 5% der Abgeordneten dem Entwurf zugestimmt haben.
+
+### Gesetzgebungsgang
+Nach dem Gesetzesvorschlags kommt der Entwurf in den Bundestag und wird dort bis zu drei Mal verlesen. Nach der dritten Lesungen kann über den Entwurf abgestimmt werden. Nach der ersten Lesung wird über den Entwurf in kleineren Kreisen durch Fachausschüsse beraten. Für die Erlassung des Gesetzesentwurfs wird eine einfache Mehrheit benötigt, außer bei verfassungsändernden Gesetzen. Bei diesen wird stattdessen eine Zustimmung von 2/3 im Bundestag und Bundesrat vorliegen. Dafür kann der Bundesrat auch einen Vermittlungsausschuss zur Beratung beauftragen. Wenn der Bundesrat den Gesetzesentwurf passieren lassen hat, unterzeichnet der Bundesminister und der Bundeskanzler. Danach erstellt der Bundespräsident eine Ausfertigung des Gesetzes und verkündet dieses im Bundesgesetzblatt.
