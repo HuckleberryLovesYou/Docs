@@ -20,7 +20,7 @@
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
   },
   "bin": {
-    "quartz": "node ./quartz/bootstrap-cli.mjs"
+    "quartz": "./quartz/bootstrap-cli.mjs"
   },
   "engines": {
     "npm": ">=10.9.2",
