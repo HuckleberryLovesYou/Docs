@@ -1,3 +1,4 @@
+Definition: Eine [Wirtschaftsordnung](https://de.wikipedia.org/wiki/Wirtschaftsordnung) umfasst alle Regeln, welche die Wirtschaft beeinflussen.
 ### Vergleichsmatrix
 
 |                                               | Freie Marktwirtschaft                                                 | Zentralverwaltungswirtschaft                 |
@@ -6,7 +7,8 @@
 | **Wem gehören<br>die Produktionsmittel?<br>** | Privateigentum                                                        | Staat                                        |
 | **Wie erfolgt <br>die Preisbildung?**         | Angebot und Nachfrage                                                 | Festlegung durch Planungsbehörden des Staats |
 | **Wer setzt die <br>Löhne fest?**             | - Vertragspartner<br>- Auf dem Arbeitsmarkt durch Angebot und Anfrage | Staat                                        |
-| **Welches Ziel hat<br>das Wirtschaften?**     | Individualisierung<br>Gewinnmaximierung                               | Planerfüllung der Forderungen des Staats     |
+| **Welches Ziel hat<br>das Wirtschaften?**     | - Individualisierung<br>- Gewinnmaximierung                           | Planerfüllung der Forderungen des Staats     |
+
 
 ### Nachteile
 
@@ -31,7 +33,7 @@
 | Einkommenspolitik       | gerechte Verteilung von Vermögen                    |
 | Öffentliche Unternehmen | Sicherstellung der Versorgung der Bevölkerung       |
 | Wettbewerbspolitik      | Sicherung des Wettbewerbs                           |
-Der **Grundgedanke** ist die wirtschaftlichen Schwachen sollen geschützt werden.
+Der **Grundgedanke** ist die wirtschaftlichen Schwachen zu schützen.
 
 ### Sozialpolitik
 - Soziale Sicherung: Sozialversicherungen (RV, AV, KV, UV, PV), Bürgergeld, Kindergeld, Wohngeld
