@@ -17,5 +17,5 @@ Der Mensch versucht möglichst *viele Bedürfnisse mit möglichst wenig finanzie
 ### Fachbegriffe
 **Verdiensteinkommen**: Lohn, Gehalt, Ausbildungsvergütung
 **Sozialeinkommen**: Bürgergeld, Arbeitslosengeld, Invalidenrente, Krankengeld
-**Konsumquote**: unmittelbare Nachfrage, wie z.B.: Lebenmittel, Miete, Strom
+**Konsumquote**: unmittelbare Nachfrage, wie z.B.: Lebensmittel, Miete, Strom
 **Sparquote**:  zurückgestellte Nachfrage, wie z.B.: Auto, Immobilien, Urlaub
