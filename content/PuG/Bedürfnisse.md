@@ -18,4 +18,4 @@ Der Mensch versucht möglichst *viele Bedürfnisse mit möglichst wenig finanzie
 **Verdiensteinkommen**: Lohn, Gehalt, Ausbildungsvergütung
 **Sozialeinkommen**: Bürgergeld, Arbeitslosengeld, Invalidenrente, Krankengeld
 **Konsumquote**: unmittelbare Nachfrage, wie z.B.: Lebensmittel, Miete, Strom
-**Sparquote**:  zurückgestellte Nachfrage, wie z.B.: Auto, Immobilien, Urlaub
+**Sparquote**: zurückgestellte Nachfrage, wie z.B.: Auto, Immobilien, Urlaub

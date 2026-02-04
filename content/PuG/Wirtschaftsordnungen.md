@@ -33,12 +33,14 @@ Definition: Eine [Wirtschaftsordnung](https://de.wikipedia.org/wiki/Wirtschaftso
 | Einkommenspolitik       | gerechte Verteilung von Vermögen                    |
 | Öffentliche Unternehmen | Sicherstellung der Versorgung der Bevölkerung       |
 | Wettbewerbspolitik      | Sicherung des Wettbewerbs                           |
+
 Der **Grundgedanke** ist die wirtschaftlichen Schwachen zu schützen.
 
 ### Sozialpolitik
 - Soziale Sicherung: Sozialversicherungen (RV, AV, KV, UV, PV), Bürgergeld, Kindergeld, Wohngeld
 - Arbeitsschutz­bestimmungen: Kündigungsschutzgesetz, Arbeitszeitgesetz, Mutterschutzgesetz, Bundesurlaubsgesetz, Jugendarbeitsschutzgesetz
 ### Wettbewerbspolitik
+Maßnahmen hierfür sind:
 - Eichgesetz
 - Preisangabenverordnung
 - Kartellgesetz
