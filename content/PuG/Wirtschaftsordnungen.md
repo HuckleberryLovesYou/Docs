@@ -10,20 +10,20 @@ Definition: Eine [Wirtschaftsordnung](https://de.wikipedia.org/wiki/Wirtschaftso
 | **Welches Ziel hat<br>das Wirtschaften?**     | - Individualisierung<br>- Gewinnmaximierung                           | Planerfüllung der Forderungen des Staats     |
 
 
-### Nachteile
+### Nachteile von freier Marktwirtschaft und Zentralverwaltungswirtschaft
 
 | Nachteile der freien Marktwirtschaft                                                                                                                                    | Nachteile der Zentralverwaltungswirtschaft                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | - Ausbeutung von wirtschaftlichen Schwacher<br>- Monopole bzw. Kartelle können die Preise festlegen<br>- starke Vermögensungleichheit<br>- fehlende soziale Absicherung | - Planungsfehler können zu Versorgungslücken führen<br>- Geringerer Lebensstandard<br>- Fehlende Innovation |
 
-### Gemeinsamkeiten der Wirtschaftsordnungen
+### Gemeinsamkeiten von sozialer und freier Marktwirtschaft
 - Preisbildung durch Angebot und Nachfrage
 - Freie Berufswahl
 - keine Planbehörde
 - freier Wettbewerb
 - Privateigentum an Produktionsmitteln
 
-### Staatliche Eingriffe in den Wirtschaftsablauf
+### Staatliche Eingriffe bei sozialer Marktwirtschaft
 
 | Eingriffe               | Ziel                                                |
 | ----------------------- | --------------------------------------------------- |
@@ -38,9 +38,14 @@ Der **Grundgedanke** ist die wirtschaftlichen Schwachen zu schützen.
 ### Sozialpolitik
 - Soziale Sicherung: Sozialversicherungen (RV, AV, KV, UV, PV), Bürgergeld, Kindergeld, Wohngeld
 - Arbeitsschutz­bestimmungen: Kündigungsschutzgesetz, Arbeitszeitgesetz, Mutterschutzgesetz, Bundesurlaubsgesetz, Jugendarbeitsschutzgesetz
-
+### Wettbewerbspolitik
+- Eichgesetz
+- Preisangabenverordnung
+- Kartellgesetz
+- Gesetz gegen unlauteren Wettbewerb (UWG)
+- Produkthaftungsgesetz
 ### 4 Prinzipien der sozialen Marktwirtschaft
-- Individualprinzip
-- Solidaritätsprinzip
-- Sozialprinzip
-- Subsidaritätsprinzip
+- Individualprinzip: Jeder handelt selbstverantwortlich.
+- Solidaritätsprinzip: Jeder hat Rechte und Pflichten gegenüber der Gemeinschaft.
+- Sozialprinzip: Jeder hat das Seine zum Gemeinwohl beizutragen.
+- Subsidiaritätsprinzip: Nur wenn der Mensch sich nicht helfen kann, tritt der Staat für ihn ein.
