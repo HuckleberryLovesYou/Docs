@@ -24,7 +24,6 @@ const config: QuartzConfig = {
       "drafts",
       "README.md",
       "Stats.md",
-      "assets",
     ],
     defaultDateType: "modified",
     theme: {
