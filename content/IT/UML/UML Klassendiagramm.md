@@ -12,7 +12,7 @@ Definition: Das [UML Klassendiagramm](https://de.wikipedia.org/wiki/Klassendiagr
 	- [[#Attribute|Attribute]]
 	- [[#Methoden|Methoden]]
 - [[#Vererbung|Vererbung]]
-	- [[#Vererbung#protected ( )|protected (#)]]
+	- [[#protected|protected]]
 
 
 ---
@@ -61,5 +61,5 @@ Die Methoden sind alle Einträge, welche im unteren Teil des UML Klassendiagramm
 ### Vererbung
 Durch das Konzept der Vererbung ist es möglich, Attribute und Methoden einer Oberklasse (auch Superklasse oder Basisklasse genannt), an mehrere, speziellere Unterklassen zu vererben. Die Unterklassen (auch Subklassen genannt) besitzen dann automatisch alle Attribute und Methoden der Oberklasse, die nicht auf `private` gesetzt sind. Im UML-Klassendiagramm wird die Vererbungsbeziehung (auch is-a-Beziehung genannt) durch einen Pfeil mit nicht ausgefüllter Spitze dargestellt, der von der Unter- zur Oberklasse zeigt.
 
-#### protected (#)
+#### protected
 Die [[UML Klassendiagramm#Sichtbarkeit|Sichtbarkeit]] protected (gekennzeichnet durch `#`) bewirkt, dass Attribute oder Methoden sowohl in der definierenden Klasse selbst als auch in all ihren Unterklassen sichtbar sind. Alle anderen Klassen können nicht auf sie zugreifen. Bei `public` könnten stattdessen alle Klassen auf diese zugreifen und bei `private` nur die definierende Klasse.
