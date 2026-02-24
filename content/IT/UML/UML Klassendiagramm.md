@@ -4,13 +4,13 @@ Definition: Das [UML Klassendiagramm](https://de.wikipedia.org/wiki/Klassendiagr
 ## Table of Contents
 
 - [[#Schema|Schema]]
-	- [[#Schema#Klassenname|Klassenname]]
-	- [[#Schema#Variablenname|Variablenname]]
-	- [[#Schema#Variablentyp|Variablentyp]]
-	- [[#Schema#Sichtbarkeit|Sichtbarkeit]]
-	- [[#Schema#Konstruktor|Konstruktor]]
-	- [[#Schema#Attribute|Attribute]]
-	- [[#Schema#Methoden|Methoden]]
+	- [[#Klassenname|Klassenname]]
+	- [[#Variablenname|Variablenname]]
+	- [[#Variablentyp|Variablentyp]]
+	- [[#Sichtbarkeit|Sichtbarkeit]]
+	- [[#Konstruktor|Konstruktor]]
+	- [[#Attribute|Attribute]]
+	- [[#Methoden|Methoden]]
 - [[#Vererbung|Vererbung]]
 	- [[#Vererbung#protected ( )|protected (#)]]
 
