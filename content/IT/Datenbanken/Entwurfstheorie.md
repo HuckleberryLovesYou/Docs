@@ -20,8 +20,8 @@ Durch die Löschung von Daten kann es zur Löschung anderer zusammenhängender I
 ## Normalisierung
 Definition: Bei der Normalisierung wird das relationale Modell auf Redundanzen geprüft und gegebenenfalls weiter verfeinert, sodass Anomalien und Inkonsistenzen vermieden werden. Die Normalisierung erfolgt in mehreren Teilschritten anhand sogenannter Normalformen (abgekürzt NF). Diese geben an, zu welchem Grad ein Datenbankschema frei von Anomalien ist. Bei relationalen Datenbanken spricht man in der Regel von einem normalisierten Modell, wenn es in dritter Normalform vorliegt.
 ### 1. Normalform
-Eine Tabelle ist in dieser Normalform, wenn die Werte der Attribute unteilbar und einzigartig sind.
+Eine Tabelle ist in dieser Normalform, wenn die Attribute einzigartig sind und die Werte dieser Attribute unteilbar sind.
 ### 2. Normalform
-Eine Tabelle ist in dieser Normalform, wenn alle Nichtschlüssel-Attribute vom gesamten Primärschlüssel - nicht nur einen Teil des Primärschlüssels - abhängig sind, sowie dass diese sich bereits in der 1. Normalform befindet.
+Eine Tabelle ist in dieser Normalform, wenn alle Nichtschlüssel-Attribute vom gesamten Primärschlüssel - nicht nur einen Teil des Primärschlüssels - abhängig sind, sowie dass sich diese bereits in der 1. Normalform befindet.
 ### 3. Normalform
-Eine Tabelle ist in dieser Normalform, wenn alle Nichtschlüssel-Attribute voneinander unabhängig sind, sowie dass diese sich bereits in der 2. Normalform befindet.
+Eine Tabelle ist in dieser Normalform, wenn alle Nichtschlüssel-Attribute voneinander unabhängig sind, sowie dass sich diese bereits in der 2. Normalform befindet.
