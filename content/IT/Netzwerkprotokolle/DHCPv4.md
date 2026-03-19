@@ -8,7 +8,7 @@ Der Ablauf der Kommunikation zum Erhalt eines DHCP-Leases (Zuweisung) entspricht
 - DHCP-Request: DHCP-Lease Annahme durch Client
 - DHCP-Acknowledgement: Bestätigung durch Server
 
-![[DHCP-DORA.excalidraw.png|697]]
+![[DHCPv4.excalidraw.png|697]]
 
 #### Paketadressierung
 
