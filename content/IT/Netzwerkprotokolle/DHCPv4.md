@@ -21,7 +21,7 @@ Der Ablauf der Kommunikation zum Erhalt eines DHCP-Leases (Zuweisung) entspricht
 | DHCP-Release  | Client-IP | Server-IP       | Client-MAC | Server-MAC                        |
 
 ### DHCP-Konfigurationsparameter
-Über DHCP lassen sich eine vielzahl an Daten übermitteln. Hierzu zählen unter anderem die folgenden Parameter:
+Über DHCP lassen sich eine Vielzahl an Daten übermitteln. Hierzu zählen unter anderem die folgenden Parameter:
 - IPv4-Adresse
 - Subnetzmaske
 - Standardgateway
