@@ -2,7 +2,7 @@ Definition: Ein [SAN (Storage Area Network)](https://de.wikipedia.org/wiki/Stora
 
 ### Protokolle
 Bei SANs, welche mittels TCP/IP betrieben werden, wird das Protokoll iSCSI verwendet. Bei SANs, welche auf FibreChannel setzen, verwenden das FibreChannel Protocol (FCP).
-	
+
 ### Hardware
 Bei einem SAN mittels TCP/IP können herkömmliche Switche, NICs, SFPs und weiteres verwendet werden. Bei SANs mittles FibreChannel sind explizite FibreChannel-Switche, SFPs und weiteres notwendig.
 

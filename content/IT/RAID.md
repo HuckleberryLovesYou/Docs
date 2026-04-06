@@ -20,6 +20,7 @@ Definition: Ein [RAID (Redundant Array of Independent Disks)](https://de.wikiped
 | Zuverlässigkeit        |     Hoch      |    Niedrig    |
 | CPU-Auslastung         |    Niedrig    |     Hoch      |
 | Betriebssystemabhängig |     Nein      |      Ja       |
+
 Software-RAID Lösungen: Intel VRoC Driver
 Hardware-RAID Lösungen: RAID-Controller
 
