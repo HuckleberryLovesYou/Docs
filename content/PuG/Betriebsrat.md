@@ -1,4 +1,4 @@
-Definiton: Der Betreibsrat ist freiwillig und ermöglicht die Mitwirkung bei Entscheidungen des Unternehmens. Dieser vertritt hierbei die Interessen der Arbeitnehmer gegenüber der Geschäftsführung.
+Definition: Der Betriebsrat ist freiwillig und ermöglicht die Mitwirkung bei Entscheidungen des Unternehmens. Dieser vertritt hierbei die Interessen der Arbeitnehmer gegenüber der Geschäftsführung.
 
 ### Wichtigste Aufgaben
 - Mitbestimmung bei sozialen Angelegenheiten
