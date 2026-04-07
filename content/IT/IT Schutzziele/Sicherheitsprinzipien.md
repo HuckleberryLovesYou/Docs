@@ -2,21 +2,15 @@ Definition: Diese Kategorie der [[_IT Schutzziele|IT Schutzziele]] beinhaltet di
 
 ## Table of Contents
 
-- [[#Vertraulichkeit/Confidentiality|Vertraulichkeit/Confidentiality]]
-	- [[#Vertraulichkeit/Confidentiality:#Definition|Definition]]
-	- [[#Vertraulichkeit/Confidentiality:#Methoden|Methoden]]
-- [[#Integrität/Integrity|Integrität/Integrity]]
-	- [[#Integrität/Integrity:#Definition|Definition]]
-	- [[#Integrität/Integrity:#Methoden|Methoden]]
-- [[#Verfügbarkeit/Availability|Verfügbarkeit/Availability]]
-	- [[#Verfügbarkeit/Availability:#Definition|Definition]]
-	- [[#Verfügbarkeit/Availability:#Methoden|Methoden]]
+- [[Sicherheitsprinzipien#Vertraulichkeit|Vertraulichkeit]]
+- [[Sicherheitsprinzipien#IntegritäT|Integrität]]
+- [[Sicherheitsprinzipien#Verfügbarkeit|Verfügbarkeit]]
 - [[#Merkhilfe|Merkhilfe]]
 
 
 ---
 
-### Vertraulichkeit/Confidentiality:
+### Vertraulichkeit
 #### Definition
 Die Daten und Systeme dürfen nur für berechtigte Personen, Ressourcen und Prozessen zugänglich sein. Dabei ist Vertraulichkeit mit Datenschutz gleichzusetzen.
 #### Methoden
@@ -24,7 +18,7 @@ Die Daten und Systeme dürfen nur für berechtigte Personen, Ressourcen und Proz
 - **Authentifizierung:** Überprüfung der Identität eines Benutzers
 - **[Zugriffskontrolle](https://de.wikipedia.org/wiki/Zugriffskontrolle):** Entscheidung, ob auf eine Ressource zugegriffen werden darf
 
-### Integrität/Integrity:
+### Integrität
 #### Definition
 Die Daten dürfen nicht manipuliert worden sein. Unbefugte oder unbeabsichtigte Änderungen von Daten müssen erkannt werden.
 
@@ -33,7 +27,7 @@ Die Daten dürfen nicht manipuliert worden sein. Unbefugte oder unbeabsichtigte 
 - **Versionskontrolle:** Protokollierung und Verwaltung von Änderungen an Daten und Systemen
 - **Prüfsummen:** Berechnung einer Prüfsumme um Integrität zu prüfen
 
-### Verfügbarkeit/Availability:
+### Verfügbarkeit
 
 #### Definition
 Die Systeme und Daten müssen stets verfügbar und nutzbar sein. Dies bedeutet, dass IT-Ressourcen, Anwendungen und Services zuverlässig und zeitnah bereitgestellt werden, damit Prozesse reibungslos ablaufen. Dabei ist Integrität mit Qualität gleichzusetzen.
